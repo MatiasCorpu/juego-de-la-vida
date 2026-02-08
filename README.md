@@ -22,3 +22,24 @@ La inicialización de la matriz se realiza mediante un menu que permite al usuar
 <div align="center">
   <img src="Juego-de-la-vida-1.gif" alt="Juego de la Vida" width="600">
 </div>
+
+<br/>
+<br/>
+<br/>
+
+## Contribución
+
+Este es un repositorio de carácter personal y académico para la materia **Tópicos de Programación** de la **Universidad Nacional de La Matanza**. Por este motivo, no se aceptan contribuciones externas ni Pull Requests.
+
+## Licencia
+
+Este proyecto se distribuye únicamente con fines educativos. <br/>
+Todos los derechos reservados © 2026 Matias Corpu.
+
+## Contacto
+
+Para cualquier pregunta o sugerencia, puedes contactar a:
+
+*   **Nombre del autor**: Matías Corpu
+*   **Correo electrónico**: corpumatiasariel@gmail.com
+*   **Perfil de GitHub**: [MatiasCorpu](https://github.com/MatiasCorpu)
