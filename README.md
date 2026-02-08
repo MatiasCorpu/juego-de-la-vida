@@ -16,7 +16,7 @@ La inicialización de la matriz se realiza mediante un menu que permite al usuar
 
 ### Ejemplos de patrones
 <div align="center">
-  <img src="Juego-de-la-vida.gif" alt="Juego de la Vida" width="600">
+  <img src="Juego-de-la-vida-0.gif" alt="Juego de la Vida" width="600">
 </div>
 
 <div align="center">
