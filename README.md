@@ -1,9 +1,9 @@
-## Juego de la Vida
+##  Juego de la Vida
 
 ### Descripción
 
 El proyecto "Juego de la Vida" es una implementación del autómata celular propuesto por John Conway en 1970. El juego consiste en una matriz bidimensional de celdas que pueden estar vivas o muertas. En cada iteración, las celdas cambian de estado según un conjunto de reglas simples.<br>
-El proyecto incluye una implementación en C y una interfaz gráfica utilizando la biblioteca SDL2.
+El proyecto incluye una implementación en C y una interfaz gráfica utilizando la biblioteca SDL2. <br>
 La inicialización de la matriz se realiza mediante un menu que permite al usuario elegir entre diferentes patrones predefinidos.
 
 ### Reglas del juego

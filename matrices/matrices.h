@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define FILAS_MAX 50
-#define COLUMNAS_MAX 50
+#define FILAS_MAX 100
+#define COLUMNAS_MAX 100
 
 void **matrizCrear(int filas, int columnas, size_t tamElem);
 void matrizDestruir(void **matriz, int filas);
@@ -22,5 +22,7 @@ void inicioSapo(int **matriz, int filas, int columnas);
 void inicioPulsar(int **matriz, int filas, int columnas);
 void inicioCanion(int **matriz, int filas, int columnas);
 void inicioVortice(int **matriz, int filas, int columnas);
+void inicioPI(int **matriz, int filas, int columnas);
+void inicioNave(int **matriz, int filas, int columnas);
 
 #endif // MATRICES_H_INCLUDED
